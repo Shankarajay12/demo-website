@@ -1,6 +1,6 @@
-# demo website
- create a demo repository for the web pages
+# My portfolio
+ I have created a demo pages for the web app
 
- My name is Ajay
- My company is Microsoft 
- My car is Lambo
+ As far what i know.
+
+ 1. Javascript
